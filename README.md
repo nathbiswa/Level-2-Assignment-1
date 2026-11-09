@@ -14,15 +14,15 @@ The assignment focuses on important TypeScript concepts, including:
   The repository also includes two blog posts explaining selected TypeScript concepts with examples.
   📁 Repository Structure
   ├── solutions.ts
-  ├── generics-and-promises.md
-  ├── access-modifiers-in-typescript.md
+  ├── [blog-name-1].md
+  ├── [blog-name-2].md
   └── README.md
   Replace the two blog filenames with your chosen topic-based names if you decide to rename the blog files.
 
 File Description
 solutions.ts TypeScript solutions for Problems 1–8
-generics-and-promises.md Blog: Generics and asynchronous Promise<T>
-access-modifiers-in-typescript.md Blog: Access modifiers in TypeScript OOP
+[blog-name-1].md Blog: Generics and asynchronous Promise<T>
+[blog-name-2].md Blog: Access modifiers in TypeScript OOP
 README.md Project overview and usage instructions
 
 🧠 Topics Covered

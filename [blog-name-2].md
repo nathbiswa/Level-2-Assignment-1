@@ -36,7 +36,7 @@ return `${this.name} - ${this.position}`;
 }
 }
 
-# Here, Manager can use the protected name and public position inherited from Employee. It cannot access salary directly because that property is private. The public getSalary() method provides controlled access to the salary value. The employeeId property is readonly, so it can be assigned in the constructor but cannot later be reassigned.
+- Here, Manager can use the protected name and public position inherited from Employee. It cannot access salary directly because that property is private. The public getSalary() method provides controlled access to the salary value. The employeeId property is readonly, so it can be assigned in the constructor but cannot later be reassigned.
 
 # Conclusion
 
